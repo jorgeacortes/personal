@@ -1,4 +1,5 @@
-personal
+Personal
 ========
 
-Small personal codes
+Small personal codes.
+I program on Linux.
